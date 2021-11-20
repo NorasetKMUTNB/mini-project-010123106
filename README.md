@@ -27,17 +27,19 @@ Different Forms of Fourier Series (3)
 
 นำค่ามาแทนใน Different Forms of Fourier Series (3) ซึ่งจะได้สมการ Fourier ไว้ในการวาดกราฟรูปสัญญาณตามที่ผู้ใช้ใส่ค่า input เข้ามาได้
 
-![image](https://drive.google.com/uc?export=view&id=1pz3lDwT1pYd6GlV8TY0Gc4HNaQH9ysqh)
-![image](https://drive.google.com/uc?export=view&id=1R0gk1MfXulkS8cvvMKSJB2xLXhHjxpae)
-![image](https://drive.google.com/uc?export=view&id=1Db8jEao4XgiuPhxoM2gopmiC1EkIlDsS)
-![image](https://drive.google.com/uc?export=view&id=1XdLpmEzUQW00OoPh_1MgugW3IEUyUsNE)
+<a href="https://drive.google.com/uc?export=view&id=1pz3lDwT1pYd6GlV8TY0Gc4HNaQH9ysqh"><img src="https://drive.google.com/uc?export=view&id=1pz3lDwT1pYd6GlV8TY0Gc4HNaQH9ysqh" style="width: 750px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
 
+<a href="https://drive.google.com/uc?export=view&id=1R0gk1MfXulkS8cvvMKSJB2xLXhHjxpae"><img src="https://drive.google.com/uc?export=view&id=1R0gk1MfXulkS8cvvMKSJB2xLXhHjxpae" style="width: 750px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1Db8jEao4XgiuPhxoM2gopmiC1EkIlDsS"><img src="https://drive.google.com/uc?export=view&id=1Db8jEao4XgiuPhxoM2gopmiC1EkIlDsS" style="width: 750px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1XdLpmEzUQW00OoPh_1MgugW3IEUyUsNE"><img src="https://drive.google.com/uc?export=view&id=1XdLpmEzUQW00OoPh_1MgugW3IEUyUsNE" style="width: 750px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
 
 -------------------------------------
 
 ## หลักการทำงาน : 
-<a href="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh"><img src="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh" style="width: 475px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a> 
-<a href="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp"><img src="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp" style="width: 475px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh"><img src="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh" style="width: 425px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a> 
+<a href="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp"><img src="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp" style="width: 425px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
   
 - เริ่มต้น กดเปิด switch (power : off/on) กดให้ power เปิด on ตัว graph จะทำงานตามค่าที่ input ที่เริ่มแรก  ( function : sine, freq : 1000Hz, amp : 1V, DC offset : 0V, phase : 0 degree, volt/dv : 1V, time/dv : 1ms )
 
@@ -77,7 +79,6 @@ Different Forms of Fourier Series (3)
 - กราฟของ full-wave เมื่อเราปรับ frequency : 2500 Hz, amplitude : 5 Volt, DC offset : -0.5 Volt, phase: Leading  90 degree, volt/div : 3 Volt  และ time/div : 4 ms
 
 ![image](https://drive.google.com/uc?export=view&id=1z9DZKO_x2IrQFBsFMMANn15ogTKofNhu)
-
 
 - กรณีที่ไม่สามารถ ใส่ค่าติดลบ ได้ (frequency,  amplitude, volt/dv, และ time/dv)
 
