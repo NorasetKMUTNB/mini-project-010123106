@@ -38,8 +38,8 @@ Different Forms of Fourier Series (3)
 -------------------------------------
 
 ## หลักการทำงาน : 
-<a href="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh"><img src="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh" style="width: 425px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a> 
-<a href="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp"><img src="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp" style="width: 425px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh"><img src="https://drive.google.com/uc?export=view&id=1jrl5wrOSx010KyI51VYa6iEYcb0PMDlh" style="width: 400px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a> 
+<a href="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp"><img src="https://drive.google.com/uc?export=view&id=11xdxkjVr-YeEZ_gEbqkG7YBKfdQI7fMp" style="width: 400px; max-width: 100%; height: auto" title="Click to enlarge picture" /></a>
   
 - เริ่มต้น กดเปิด switch (power : off/on) กดให้ power เปิด on ตัว graph จะทำงานตามค่าที่ input ที่เริ่มแรก  ( function : sine, freq : 1000Hz, amp : 1V, DC offset : 0V, phase : 0 degree, volt/dv : 1V, time/dv : 1ms )
 
